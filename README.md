@@ -18,3 +18,9 @@ After the user gives required permissions it will show the user's location on th
 - Handling edge cases
 - How to separate business logic from ui
 - Making user friendly UX
+
+## Architecture
+
+[Domain-Driven Design Principles - Reso Coder](https://resocoder.com/2020/03/09/flutter-firebase-ddd-course-1-domain-driven-design-principles/)
+
+![img](https://resocoder.com/wp-content/uploads/2020/03/DDD-Flutter-Diagram-v3.svg)
